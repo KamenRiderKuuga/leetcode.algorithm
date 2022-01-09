@@ -1,4 +1,4 @@
-# rust.algorithm
+# leetcode.algorithm
 
 ## 目录结构
 
